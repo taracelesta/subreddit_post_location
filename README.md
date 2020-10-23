@@ -44,11 +44,9 @@ This raw data, named 'all_subreddits.csv', can be found in the data folder.
 
    * From this information I was able to determine that the survival group had more unique content per user than the Spells group. This might make generalizing my model towards other witch forums a problem.
 
-   *Frequently used words per subreddit group:*
-        * The most occuring words from the Spells subreddit are:
-        ![Spells Wordcloud](https://git.generalassemb.ly/taracelesta/project_3/blob/master/images/wordcloudsurvive.png?raw=true)
+   * Frequently used words per subreddit group:*
         * The most occuring words from the Survive subreddit are:
-        ![Survive Wordcloud](/images/wordcloudsurvive.png)
+        ![Survival Wordcloud](https://git.generalassemb.ly/taracelesta/project_3/blob/master/images/wordcloudsurvive.png?raw=true)
 
 
 ## Data Preprocessing
